@@ -2,6 +2,8 @@
 
 La inclusión de cuadernos de jupyter y la enseñanza de Python abre un cúmulo de posibilidades en nuestras nuevas aulas. En este curso exploramos algunas de las herramientas notables que ofrece esta dupla para rediseñar nuestras clases. 
 
+![Presentación](/img/cabezacurso.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
